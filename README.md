@@ -5,6 +5,7 @@
 - [A Shiny app for visualizing DESeq2 results](https://bioconductor.org/packages/devel/bioc/vignettes/InteractiveComplexHeatmap/inst/doc/deseq2_app.html)
 - [pcaExplorer](https://bioconductor.org/packages/release/bioc/vignettes/pcaExplorer/inst/doc/pcaExplorer.html)
 - [GeneTonic](https://bioconductor.org/packages/release/bioc/vignettes/GeneTonic/inst/doc/GeneTonic_manual.html)
+- [bigPint](https://bioconductor.org/packages/release/bioc/html/bigPint.html)
 
 
 ## **ChIP-Seq**
@@ -21,6 +22,7 @@
 ### Single-cell RNA-Seq
 
 - [singleCellTK](https://bioconductor.org/packages/release/bioc/vignettes/singleCellTK/inst/doc/singleCellTK.html)
+- [scone](https://bioconductor.org/packages/release/bioc/vignettes/scone/inst/doc/sconeTutorial.html)
 
 
 ## **Methylation**
@@ -39,6 +41,13 @@ Methylation array data](https://bioconductor.org/packages/release/bioc/vignettes
 ## **Functional Enrichment**
 
 - [GREAT](https://bioconductor.org/packages/devel/bioc/html/rGREAT.html)
+- [sparrow](https://bioconductor.org/packages/release/bioc/vignettes/sparrow/inst/doc/sparrow.html)
+- [piano](https://bioconductor.org/packages/release/bioc/html/piano.html)
+
+
+## **Gene ontologies**
+
+- [rrvgo](https://bioconductor.org/packages/release/bioc/vignettes/rrvgo/inst/doc/rrvgo.html)
 
 
 ## **Spatial transcriptomics**
@@ -60,7 +69,7 @@ Methylation array data](https://bioconductor.org/packages/release/bioc/vignettes
 ## **Databases**
 
 - [GEOexplorer](https://bioconductor.org/packages/release/bioc/vignettes/GEOexplorer/inst/doc/GEOexplorer.html)
-
+- [cellxgenedp](https://bioconductor.org/packages/release/bioc/vignettes/cellxgenedp/inst/doc/using_cellxgenedp.html#cxg-provides-a-shiny-interface)
 
 ## **Interactive visualization of Bioconductor objects**
 
