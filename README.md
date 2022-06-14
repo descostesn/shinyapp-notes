@@ -14,7 +14,8 @@
 
 - [GEOexplorer](https://bioconductor.org/packages/release/bioc/vignettes/GEOexplorer/inst/doc/GEOexplorer.html)
 - [cellxgenedp](https://bioconductor.org/packages/release/bioc/vignettes/cellxgenedp/inst/doc/using_cellxgenedp.html#cxg-provides-a-shiny-interface)
-
+- [tenXplore](https://bioconductor.org/packages/release/bioc/html/tenXplore.html)
+- [erma](https://bioconductor.org/packages/release/bioc/html/erma.html)
 
 ## **Functional Enrichment**
 
