@@ -44,7 +44,7 @@
 - [Interactive and explorative visualization of ExpressionSet using omicsViewer](https://bioconductor.org/packages/release/bioc/vignettes/omicsViewer/inst/doc/quickStart.html)
 
 
-## **mass spectrometry**
+## **Mass spectrometry**
 
 - [DEP - Differential Enrichment analysis of Proteomics data](https://bioconductor.org/packages/release/bioc/vignettes/DEP/inst/doc/DEP.html)
 - [QFeatures](https://bioconductor.org/packages/release/bioc/html/QFeatures.html)
