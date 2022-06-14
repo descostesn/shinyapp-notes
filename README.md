@@ -44,12 +44,12 @@ Methylation array data](https://bioconductor.org/packages/release/bioc/vignettes
 ## **Spatial transcriptomics**
 
 - [SpatialCPie - Cluster analysis of Spatial Transcriptomics data](https://bioconductor.org/packages/release/bioc/html/SpatialCPie.html)
+- [Spaniel](https://www.bioconductor.org/packages/release/bioc/html/Spaniel.html)
 
 
 ## **mass spectrometry proteomics**
 
 - [DEP - Differential Enrichment analysis of Proteomics data](https://bioconductor.org/packages/release/bioc/vignettes/DEP/inst/doc/DEP.html)
-- [Spaniel](https://www.bioconductor.org/packages/release/bioc/html/Spaniel.html)
 
 
 ## **Heatmaps**
