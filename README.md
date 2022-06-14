@@ -36,32 +36,31 @@
 
 ## **Heatmaps**
 
-- [A Shiny app to interactively visualize clustering results](https://bioconductor.org/packages/devel/bioc/vignettes/simplifyEnrichment/inst/doc/interactive.html)
+- [simplifyEnrichment](https://bioconductor.org/packages/release/bioc/html/simplifyEnrichment.html)
 
 
 ## **Interactive visualization of Bioconductor objects**
 
 - [interactiveDisplay](https://bioconductor.org/packages/release/bioc/vignettes/interactiveDisplay/inst/doc/interactiveDisplay.pdf)
-- [Interactive and explorative visualization of ExpressionSet using omicsViewer](https://bioconductor.org/packages/release/bioc/vignettes/omicsViewer/inst/doc/quickStart.html)
+- [omicsViewer](https://bioconductor.org/packages/release/bioc/vignettes/omicsViewer/inst/doc/quickStart.html)
 
 
 ## **Mass spectrometry**
 
-- [DEP - Differential Enrichment analysis of Proteomics data](https://bioconductor.org/packages/release/bioc/vignettes/DEP/inst/doc/DEP.html)
+- [DEP](https://bioconductor.org/packages/release/bioc/vignettes/DEP/inst/doc/DEP.html)
 - [QFeatures](https://bioconductor.org/packages/release/bioc/html/QFeatures.html)
 
 
 ## **Methylation**
 
-- [MethylAid: Visual and Interactive quality control of Illumina Human DNA
-Methylation array data](https://bioconductor.org/packages/release/bioc/vignettes/MethylAid/inst/doc/MethylAid.pdf)
+- [MethylAid](https://bioconductor.org/packages/release/bioc/vignettes/MethylAid/inst/doc/MethylAid.pdf)
 
 
 ## **Multi-omics**
 
 ### Methylation and Nucleosome
 
-- [Using methylscaper to visualize joint methylation and nucleosome occupancy data](https://bioconductor.org/packages/release/bioc/vignettes/methylscaper/inst/doc/methylScaper.html)
+- [Methylscaper](https://bioconductor.org/packages/release/bioc/vignettes/methylscaper/inst/doc/methylScaper.html)
 
 
 ## Overlap
@@ -90,6 +89,6 @@ Methylation array data](https://bioconductor.org/packages/release/bioc/vignettes
 
 ## **Spatial transcriptomics**
 
-- [SpatialCPie - Cluster analysis of Spatial Transcriptomics data](https://bioconductor.org/packages/release/bioc/html/SpatialCPie.html)
+- [SpatialCPie](https://bioconductor.org/packages/release/bioc/html/SpatialCPie.html)
 - [Spaniel](https://www.bioconductor.org/packages/release/bioc/html/Spaniel.html)
 
