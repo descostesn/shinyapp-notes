@@ -86,6 +86,8 @@
 
 - [singleCellTK](https://bioconductor.org/packages/release/bioc/vignettes/singleCellTK/inst/doc/singleCellTK.html)
 - [scone](https://bioconductor.org/packages/release/bioc/vignettes/scone/inst/doc/sconeTutorial.html)
+- [InterCellar](https://bioconductor.org/packages/release/bioc/html/InterCellar.html)
+
 
 ## **Spatial transcriptomics**
 
