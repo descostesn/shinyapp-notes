@@ -3,6 +3,7 @@
 ## ATAc-Seq
 
 - [chromVar](https://bioconductor.org/packages/release/bioc/html/chromVAR.html)
+- [shinyArchR.UiO](https://cancell.medisin.uio.no/ShinyArchR.UiO/)
 
 
 ## **ChIP-Seq**
