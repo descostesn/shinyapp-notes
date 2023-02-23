@@ -23,7 +23,7 @@
 - [GREAT](https://bioconductor.org/packages/devel/bioc/html/rGREAT.html)
 - [sparrow](https://bioconductor.org/packages/release/bioc/vignettes/sparrow/inst/doc/sparrow.html)
 - [piano](https://bioconductor.org/packages/release/bioc/html/piano.html)
-
+- [shinyGO](http://bioinformatics.sdstate.edu/go/)
 
 ## **Gene ontologies**
 
